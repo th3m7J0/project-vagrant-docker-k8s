@@ -1,0 +1,3 @@
+.vagrant/
+configs/*
+!configs/.gitkeep
